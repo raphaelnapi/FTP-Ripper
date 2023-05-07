@@ -1,7 +1,13 @@
 # FTP-Ripper
 Demonstração de ataque de dicionário a um servidor FTP
 
-#Funcionamento
+# Assuntos estudados
+- WINSOCK
+- Protocolo FTP (Login)
+- Manipulação de Strings em C
+- Manipulação de arquivos texto em C
+
+# Funcionamento
 Organize o arquivo pass.txt de forma que ele contenha usuários e senhas separados por TAB.
 Exemplo:
 ```
